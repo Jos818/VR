@@ -1,0 +1,3 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]This next feature is a little more advanced, but a tech-savvy consumer like yourself should get it in no time.
+If you hold Shift, and press the up arrow, the camera will extend upwards. Perfect for peering over that kitchen counter to see your forgotten meatloaf bursting into flames.
+Try it out!

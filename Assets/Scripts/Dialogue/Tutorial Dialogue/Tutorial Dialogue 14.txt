@@ -1,0 +1,6 @@
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]...
+Um, they won't come off.
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]What do you mean they won't come off?
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]They won't come off. It's stuck on my head.
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Great, this is just what I needed today. Some freeloader wastes valuable sales time having me give a full demo and now he's stuck in the VR goggles.
+Well, I'm sure with a little elbow grease I can manage to get those things off of...

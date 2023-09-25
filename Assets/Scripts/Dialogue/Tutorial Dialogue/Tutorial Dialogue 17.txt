@@ -1,0 +1,2 @@
+[NAME=Salesman][SPEAKERSPRITE=]Woah there! The table's over this way!
+You'll have time to check out the rest of the store after we've finished the demo.

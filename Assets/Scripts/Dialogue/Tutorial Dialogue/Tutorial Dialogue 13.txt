@@ -1,0 +1,6 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Will that be Cash or Credit?
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]...
+I have 20 bucks.
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]AAAAAND WE'RE DONE HERE!
+I'll need you to take off those reasonably-priced VR goggles and go waste some other store's time.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]Geez, alright. No need to be rude.

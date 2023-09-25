@@ -1,0 +1,3 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]That should do the trick. The camera is connected now.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]I can tell! This is so cool!
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]And you have direct control over it with your headset. Why don't you spin it around to face us?

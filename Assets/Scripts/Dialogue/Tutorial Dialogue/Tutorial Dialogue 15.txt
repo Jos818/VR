@@ -1,0 +1,18 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]AAAAAND THAT'S LUNCH!
+Union bylaws state that I cannot work for the next hour, so you're on your own pal.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]An hour!?! But what am I supposed to do about this?!?
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]For the next hour, that is anyone-but-me's problem.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]Fine, then I'll go to the ER across the street. They'll help me.
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Oh you can't do that.
+You're wearing a very expensive piece of technology that you've (unfortunately) declined to purchase. I can't let you leave the store with that.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]So you won't help me get them off because you're on lunch, but you're willing to make sure I don't leave for the next hour?
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Of course not.
+I've already locked all the doors leading out of the store.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]WHAT!?!
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Like I said pal, I'm OFF for the next 59 and a half minutes.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]This is stupid. You are getting the WORST Yelp review known to man.
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Woah woah woah. Let's not be hasty now.
+Tell you what: if you go back into the Employees Only section of the store, you can talk to HR. They've always got someone on duty, so they should be able to help you out.
+Just press down those two Employee buttons to open the door, and you're off to the races!
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]Employee buttons? What the he...
+

@@ -1,0 +1,7 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]You're a natural!
+Now, you might find that once you've connected to your Securacam that it doesn't let you see what you need.
+No matter how much you rotate or shift it, that flaming meatloaf is just impossible to see.
+Luckily for you, the folks at Securacam Industries were INSISTENT that the consumer never need take off their VR goggles to make adjustments.
+The Securacam's trademarked wireless technology lets you pick up and move it with ease!
+They even included an onscreen prompt that shows you when you've come close to the Securacam to make it easier to grab.
+Let's give it a try. First, walk over to the Securacam. Once you're in front of it, and your screen flashes green, press Space Bar to pick it up.

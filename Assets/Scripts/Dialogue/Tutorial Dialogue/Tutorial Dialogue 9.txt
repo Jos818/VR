@@ -1,0 +1,6 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]There we go.
+Take note of the Manual Rotation notification in the corner. This means it will work how we did it in the first part of the demo, with the arrow keys.
+Oh! I almost forgot the most important new feature!
+Those geniuses at Securacam Industries realized that the consumer's time is valuable, and that one might be too busy to simply "place the Securacam down gently".
+So the newest model has a Titanium Alloy frame. It's practically indestructible!
+Allow me to prove it to you. Pick up the Securacam like before.

@@ -1,0 +1,9 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Perfect. Now, I know a sharp shopper like yourself will not settle for less than the biggest of bargains. You've got priorities!
+So not only will you be getting the storewide 25% off special (on all purchases meeting or exceeding $200)...
+But I will also be giving you a first-time customer discount of an additional 15%...
+AND if you sign up for a membership with our store, you will receive a FREE copy of the smash-hit game "Green Thumb".
+Truly this is a bargain that cannot be beat.
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]Wow. When you put it like that, how can I not buy?
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]I knew you'd spot a great deal when you saw one!
+Now, taking the Securacam, plus the VR goggles you're wearing right now, and applying all of the discounts...
+And getting you your FREE copy of "Green Thumb", your grand total comes out to the impossibly low price of $65,000.

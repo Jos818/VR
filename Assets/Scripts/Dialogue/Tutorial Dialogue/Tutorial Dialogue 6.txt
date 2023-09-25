@@ -1,0 +1,1 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]And pressing the down arrow with Shift lets you move it right back down to where you started.

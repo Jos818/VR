@@ -1,0 +1,2 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Now you've got it!
+Why don't you bring it back up to normal?

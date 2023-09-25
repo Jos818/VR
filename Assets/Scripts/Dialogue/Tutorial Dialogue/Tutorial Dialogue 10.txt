@@ -1,0 +1,3 @@
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]Now instead of tapping Space Bar to drop the Securacam, I want you to hold it, and charge up all your strength. Then, when you're ready, release Space Bar to throw the Securacam across the room!
+Don't worry about damaging it. Any repairs or replacements will be coming directly out of my salary.
+Oh! And if you feel like you're throwing it too far, feel free to press Control to cancel the charge.

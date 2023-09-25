@@ -1,0 +1,6 @@
+[NAME=Player][SPEAKERSPRITE=][PITCH=2]Woah!
+[NAME=Salesman][SPEAKERSPRITE=][PITCH=3]As you can see, the Securacam even gives you the extra foot of height that your genes denied you!
+Is there nothing the Securacam can't do?
+I will note that the Securcacm has automatically flipped its direction to mirror the direction you're facing. A must when you're moving the camera away from the meatloaf smoke.
+To make moving around even easier when you're holding the Securacam there's the Automatic Rotation. This means it will rotate horizontally with WASD while you hold it. Try spinning around a bit!
+And when you're ready to get back to the demo. You can set the Securacam back on the table by tapping Space Bar.
